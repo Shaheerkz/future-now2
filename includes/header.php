@@ -15,7 +15,6 @@
             <a href="#"><i class="fa-regular fa-bell"></i></a>
             <img src="./assets/images/indicator.png" class="unread" alt="">
           </div>
-          
           <div class="user-img-wrp">
           <div class="userImageSelect">
             <a href="#"><img src="./assets/images/user.png" alt=""></a>
